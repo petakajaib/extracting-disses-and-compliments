@@ -1,0 +1,4 @@
+polyglot==16.7.4
+morfessor
+pycld2==0.31
+pymongo==3.6.0
